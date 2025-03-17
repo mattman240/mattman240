@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Matt!</h1>
-<h3 align="center">VP of Engineering @ <a href="https://ryco.io">ryco.io</a></h3>
+<h3 align="center">VP of Engineering @<a href="https://ryco.io">ryco.io</a></h3>
 
 ---
 

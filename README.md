@@ -4,7 +4,7 @@
 ---
 
 🚀 **Building the future of education at** [ryco.io](https://ryco.io)  
-🤖 **AI strategist** | **Scaling teams & tech** | **Engineering leadership with impact** 
+🤖 **AI strategist** | **Scaling teams & tech** | **Engineering leadership with impact**  
 🛠 **Stack:** React, Next.js, tRPC, Prisma, PostgreSQL, Tailwind  
 📚 **Currently focused on:** AI-powered documentation + scalable engineering systems  
 🎯 **Philosophy:** **"Engineering should drive business impact, not just ship code."**  

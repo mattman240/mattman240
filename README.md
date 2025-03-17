@@ -22,7 +22,7 @@
 
 ### 📫 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/mattmull/)  
-🌐 [ryverse](https://app.ryco.io/ryverse)
+🌐 [ryverse](https://app.ryco.io/ryverse)  
 📬 Reach out for tech, AI, or startup talk!  
 
 ---

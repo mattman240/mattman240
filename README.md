@@ -8,19 +8,23 @@ Engineering Leader • AI Builder • Startup Operator
 VP of Engineering @ <a href="https://ryco.io">ryco.io</a>
 </p>
 
+<p align="center">
+Building AI systems, developer platforms, and software products.
+</p>
+
 ---
 
-## Currently Building
+## 🚀 Featured Projects
 
-### 🚀 Products
+### 🧠 [LLMetrics](https://llmetrics.io)
+Observability platform for LLM usage and cost monitoring.  
+Track token usage, identify expensive prompts, and understand the real economics of AI systems in production.
 
-**🧠 [LLMetrics](https://llmetrics.io)**  
-Observability platform for LLM usage and cost monitoring. Track token usage, identify expensive prompts, and understand real production costs in AI systems.
+### 📚 [ContextLayer](https://contextlayerai.io)
+AI-powered sales memory.  
+Turn call transcripts, notes, and documents into a searchable AI knowledge base for every deal.
 
-**📚 [ContextLayer](https://contextlayerai.io)**  
-AI-powered sales memory. Turn transcripts, notes, and documents into a searchable knowledge base for every deal.
-
-**🤖 rybot API**  
+### 🤖 rybot API
 Public API powering AI features across the ryco ecosystem.
 
 ---
@@ -64,9 +68,21 @@ Tailwind
 
 Most of my work sits at the intersection of:
 
-- AI systems
-- developer platforms
-- startup infrastructure
+- AI systems  
+- developer platforms  
+- startup infrastructure  
+
+---
+
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mattmull&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattmull&layout=compact&theme=transparent" />
+</p>
 
 ---
 

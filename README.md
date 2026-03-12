@@ -24,7 +24,7 @@ Track token usage, identify expensive prompts, and understand the real economics
 AI-powered sales memory.  
 Turn call transcripts, notes, and documents into a searchable AI knowledge base for every deal.
 
-### 🤖 rybot API
+### 🤖 [rybot API](https://rybot.ryco.io)
 Public API powering AI features across the ryco ecosystem.
 
 ---
@@ -77,11 +77,11 @@ Most of my work sits at the intersection of:
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mattmull&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=mattman240&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattmull&layout=compact&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattman240&layout=compact&theme=transparent" />
 </p>
 
 ---

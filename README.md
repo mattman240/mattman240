@@ -1,30 +1,94 @@
-<h1 align="center">👋 Hey, I'm Matt!</h1>
-<h3 align="center">VP of Engineering @<a href="https://ryco.io">ryco.io</a></h3>
+<h1 align="center">Matt Mullen</h1>
+
+<p align="center">
+Engineering Leader • AI Builder • Startup Operator
+</p>
+
+<p align="center">
+VP of Engineering @ <a href="https://ryco.io">ryco.io</a>
+</p>
 
 ---
 
-🚀 **Building the future of education at** [ryco.io](https://ryco.io)  
-🤖 **AI strategist** | **Scaling teams & tech** | **Engineering leadership with impact**  
-🛠 **Stack:** React, Next.js, tRPC, Prisma, PostgreSQL, Tailwind  
-📚 **Currently focused on:** AI-powered documentation + scalable engineering systems  
-🎯 **Philosophy:** **"Engineering should drive business impact, not just ship code."**  
+## Currently Building
+
+### 🚀 Products
+
+**🧠 [LLMetrics](https://llmetrics.io)**  
+Observability platform for LLM usage and cost monitoring. Track token usage, identify expensive prompts, and understand real production costs in AI systems.
+
+**📚 [ContextLayer](https://contextlayerai.io)**  
+AI-powered sales memory. Turn transcripts, notes, and documents into a searchable knowledge base for every deal.
+
+**🤖 rybot API**  
+Public API powering AI features across the ryco ecosystem.
 
 ---
 
-### 🔥 About Me  
-- 🏗️ Leading engineering at ryco, an innovative platform in EdTech focused on AI-powered solutions and scalable technology for the future of learning
-- 🛠️ From building startups to leading engineering teams in AI and tech innovation
-- 🤖 Building AI agents to solve real-world problems and enhance team productivity
-- 📈 Building **high-performance teams & scalable infrastructure**  
-- 🤝 Passionate about sharing knowledge on tech, leadership, and scaling high-performing teams
+## What I Work On
+
+- Building **AI agents and production AI systems**
+- Understanding the **economics of LLM-powered products**
+- Launching **software products from idea → production**
+- Building **small engineering teams that move fast**
 
 ---
 
-### 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/mattmull/)  
-🌐 [ryverse](https://app.ryco.io/ryverse)  
-📬 Reach out for tech, AI, or startup talk!  
+## Tech Stack
+
+### AI Systems
+```
+AWS Bedrock
+OpenAI
+Anthropic
+RAG Pipelines
+Vector Search
+AI Agents
+```
+
+### Infrastructure
+```
+TypeScript
+Node.js
+Fastify
+Convex
+PostgreSQL
+```
+
+### Product
+```
+Next.js
+React
+Tailwind
+```
+
+Most of my work sits at the intersection of:
+
+- AI systems
+- developer platforms
+- startup infrastructure
 
 ---
 
-💻 **"Great engineering is more than just code—it's vision, execution, and leadership."** 🚀
+## Writing / Thinking About
+
+- Shipping AI systems in production
+- The economics of AI products
+- LLM cost visibility
+- Building software that builds software
+
+---
+
+## Connect
+
+LinkedIn  
+https://www.linkedin.com/in/mattmull/
+
+ryco  
+https://ryco.io
+
+---
+
+<p align="center">
+Building software that builds software.
+</p>

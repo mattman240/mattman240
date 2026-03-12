@@ -14,72 +14,16 @@ Building AI systems, developer platforms, and software products.
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 ### 🧠 [LLMetrics](https://llmetrics.io)
-Observability platform for LLM usage and cost monitoring.  
-Track token usage, identify expensive prompts, and understand the real economics of AI systems in production.
+Observability platform for LLM usage and cost monitoring.
 
 ### 📚 [ContextLayer](https://contextlayerai.io)
-AI-powered sales memory.  
-Turn call transcripts, notes, and documents into a searchable AI knowledge base for every deal.
+AI-powered sales memory for deal intelligence.
 
-### 🤖 [rybot API](https://rybot.ryco.io)
-Public API powering AI features across the ryco ecosystem.
-
----
-
-## What I Work On
-
-- Building **AI agents and production AI systems**
-- Understanding the **economics of LLM-powered products**
-- Launching **software products from idea → production**
-- Building **small engineering teams that move fast**
-
----
-
-## Tech Stack
-
-### AI Systems
-```
-AWS Bedrock
-OpenAI
-Anthropic
-RAG Pipelines
-Vector Search
-AI Agents
-```
-
-### Infrastructure
-```
-TypeScript
-Node.js
-Fastify
-Convex
-PostgreSQL
-```
-
-### Product
-```
-Next.js
-React
-Tailwind
-```
-
-Most of my work sits at the intersection of:
-
-- AI systems  
-- developer platforms  
-- startup infrastructure  
-
----
-
-## Writing / Thinking About
-
-- Shipping AI systems in production
-- The economics of AI products
-- LLM cost visibility
-- Building software that builds software
+### 🤖 [rybot](https://rybot.ryco.io)
+AI assistant platform powering intelligent workflows.
 
 ---
 
@@ -87,9 +31,6 @@ Most of my work sits at the intersection of:
 
 LinkedIn  
 https://www.linkedin.com/in/mattmull/
-
-ryco  
-https://ryco.io
 
 ---
 

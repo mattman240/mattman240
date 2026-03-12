@@ -74,18 +74,6 @@ Most of my work sits at the intersection of:
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mattman240&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattman240&layout=compact&theme=transparent" />
-</p>
-
----
-
 ## Writing / Thinking About
 
 - Shipping AI systems in production

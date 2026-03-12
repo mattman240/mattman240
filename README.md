@@ -14,7 +14,7 @@ Building AI systems, developer platforms, and software products.
 
 ---
 
-## Projects
+## Products
 
 ### 🧠 [LLMetrics](https://llmetrics.io)
 Observability platform for LLM usage and cost monitoring.
